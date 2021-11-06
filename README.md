@@ -1,7 +1,7 @@
-### Hi. Luca here 
+### Hi. Luca here.
 
-I'm a passionate PhD student in Computer Science Engineering doing research in Underwater IoT. 
-My current focus are Reinforcement Learning-based communication protocols for networks of Underwater Autonomous Vehicles.
+I'm a PhD student in Computer Science Engineering doing research in Underwater IoT. 
+My current focus are Learning-based communication and navigation protocols for networks of Underwater Autonomous Vehicles.
 Sapienza Università di Roma is my cosy home where I also pursued my B.Sc. and M.Sc. in Computer Science.
 
 <!--
