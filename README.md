@@ -1,8 +1,7 @@
 ### Hi. Luca here.
 
-I'm a PhD candidate in Computer Science Engineering doing research in Underwater Robotics. 
+I'm a PhD candidate in Computer Science Engineering @ Sapienza University of Rome, doing research in Underwater Robotics. 
 My current focus is underwater navigation and localization of Underwater Autonomous Vehicles.
-Sapienza Università di Roma is my cosy home where I also pursued my B.Sc. and M.Sc. in Computer Science.
 
 <!--
 **korovev/korovev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
